@@ -12,22 +12,22 @@ global.autoread = true // true a i dah chuan message zawng zawng read vek zelin 
 global.autoread_status = true // true a i dah chuan auto status view in a awm ang
 
 //info
-global.owner = ['918416093656'] // I phone number in thlak rawh
-global.ownernumber = '918416093656' // I phone number in thlak rawh
-global.ownername = "꧁Herbert♕꧂" // I hming dah tel bawk la
+global.owner = ['917085998449'] // I phone number in thlak rawh
+global.ownernumber = '917085998449' // I phone number in thlak rawh
+global.ownername = "꧁619♕꧂" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
-global.botname = "HBWABot Mizo" // I bot hming tur dah la
+global.botname = "619Mizo" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
-global.creator = "918416093656@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
+global.creator = "917085998449@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
-global.ownerNumber = ["918416093656@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
-global.prefixc = ['/'] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
+global.ownerNumber = ["7085998449@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
+global.prefixc = ['₹'] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
 global.sessionName = 'session'
 
 // Sticker Pack Name
 global.packname = "Sticker By"
-global.author = "HBWABot"
+global.author = "619"
 
 //BUTTON INPUT 
 global.buttonyt = "SUBSCRIBE"
